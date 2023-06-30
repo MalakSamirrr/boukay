@@ -1,0 +1,241 @@
+@font-face{font-family:retro;src:url(retrovoltdemoversionregular.ttf)}
+
+@font-face{font-family:mifelin;
+    src:url(Mifelin-Regular.ttf);}
+
+/*-------HEADER---------*/
+body{background-color: #f4e6ba}
+#logo{height: 30px;width: 30px;margin-top: -5px}
+
+header{display: flex;
+text-align: center;
+justify-content: center;list-style-type: none;margin-top: 30px}
+header img{ width: 24px;  }
+
+header h1{
+width: 64px;
+height: 16px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+color: #A679CA;
+font-family:mifelin;margin-top: 2px}
+
+ 
+header a {
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+text-align: center;
+color: #A679CA;
+text-decoration: none;
+    
+    margin-top: 15px;
+ 
+margin-left: 30px;}
+
+
+#login{ 
+padding: 5px 18px; 
+background: #A679CA;
+border-radius: 25px;
+color: white;}
+
+ 
+
+
+
+/*------THE SERVICES---*/
+#ser{font-family: mifelin; text-align: center;color: #A679CA;}
+/*#theservices{display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center}*/
+
+
+/*AMAZING LINING NEXT TO EACH OTHER*/
+#services2{display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center}
+
+#ship{height: 50px;width: 50px;margin-top: 20px;margin-left: 15px;margin-top: 8px;}
+
+#whitecircle{background-color: white;height: 70px; width: 70px;border-radius: 50px;margin-left: 100px}
+
+h2{font-family:mifelin; text-align: center }
+h2{font-family:mifelin; text-align: center;color: #A679CA}
+p{text-align: center;color: #A679CA}
+
+#shipmentdiv{background-color:#E6C9E1; width: 267px; height:228px; border-radius: 25px; }
+
+#whitecircle2{background-color: white;height: 70px; width: 70px;border-radius: 50px;margin-left: 100px}
+
+#shop2{height: 50px;width: 50px;margin-top: 20px;margin-left: 10px;margin-top: 8px;}
+
+#shopdiv{background-color:#E6C9E1; width: 267px; height:228px; border-radius: 25px; margin-left:80px}
+
+
+#blog{height: 50px;width: 50px;margin-top: 20px;margin-left: 10px;margin-top: 8px;}
+
+#whitecircle3{background-color: white;height: 70px; width: 70px;border-radius: 50px;margin-left: 100px}
+
+#blogdiv{background-color:#E6C9E1; width: 267px; height:228px; border-radius: 25px; margin-left:80px }
+
+#seeall{background-color: #E6C9E1; border-radius: 15px; align-content: center;height: 40px; text-align: center; height: 40px;width: 210px;display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;margin-left: 640px;margin-top: 45px;}
+
+
+#SEE{text-decoration: none;color: #A679CA; margin-left: -60px;list-style-type: none}
+
+#ARROW{height: 20px; width:20px; ; margin-left:10px;}
+
+#seeallservices{display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center}
+
+/*----WHY CHOOSE US---*/
+
+#section2{background-color:#E6C9E1;  margin-bottom: -75px;width: 1500px; height: 450px;align-content: center}
+#whyarewethebest{font-size: 10pt;margin-top: 30px }
+#whychooseus{font-family:mifelin;color:#A679CA; text-align: center; font-size: 25pt;margin-top:-10px;}
+
+#one{font-family:cursive;font-size: 24pt;color: #A679CA}
+
+#line1{width: 100px}
+
+#quick{font-family: mifelin;color:#A679CA;font-size: 18pt }
+
+#sec1{display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center; margin-left: -900px; margin-bottom:-50px}
+
+#p1{margin-left: -950px;margin-bottom: -15px}
+#p1half{margin-left: -1080px;}
+
+#two{font-family:cursive;font-size: 24pt;color: #A679CA}
+
+#line2{width: 100px}
+
+#diff{font-family: mifelin;color:#A679CA;font-size: 18pt }
+
+
+#sec2{display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;margin-bottom:-50px;margin-top: -137px}
+
+
+#p2{margin-left: -60px;margin-bottom: -15px}
+#p2half{margin-left: -180px;}
+
+
+#three{font-family:cursive;font-size: 24pt;color: #A679CA}
+
+#line3{width: 100px}
+
+#best{font-family: mifelin;color:#A679CA;font-size: 18pt }
+
+#sec3{display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;margin-right:-900px; margin-bottom:-50px;margin-top:-137px }
+
+#p3{margin-right: -870px;margin-bottom: -15px}
+#p3half{margin-right: -800px;}
+
+
+#four{font-family:cursive;font-size: 24pt;color: #A679CA}
+
+#line4{width: 100px}
+
+#huge{font-family: mifelin;color:#A679CA;font-size: 18pt }
+
+#sec4{display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center; margin-left: -900px; margin-bottom:-50px;margin-top: 60px}
+
+#p4{margin-left: -940px;margin-bottom: -15px}
+#p4half{margin-left: -1000px;}
+
+#five{font-family:cursive;font-size: 24pt;color: #A679CA}
+
+#line5{width: 100px}
+
+#high{font-family: mifelin;color:#A679CA;font-size: 18pt }
+
+
+#sec5{display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;margin-bottom:-50px;margin-top: -136px;margin-left: -80px}
+
+
+#p5{margin-left: -91px;margin-bottom: -15px}
+#p5half{margin-left: -90px;}
+
+
+#six{font-family:cursive;font-size: 24pt;color: #A679CA}
+
+#line6{width: 100px}
+
+#free{font-family: mifelin;color:#A679CA;font-size: 18pt }
+
+#sec6{display: flex;
+flex-direction: row;
+justify-content: center;
+    align-items: center;margin-right:-900px; margin-bottom:-50px;margin-top: -136px}
+
+#p6{margin-right: -870px;margin-bottom: -15px}
+#p6half{margin-right: -920px;margin-bottom:}
+
+/*-------ABOUTUS-----*/
+
+#aboutus1{margin-top: 250px;width: 500px; height: 450px;margin-left: 300px }
+
+
+#div3{background-color:#E6C9E1;padding: 10px;width: 350px; height: 350px;margin-left: 400px;margin-top: 250px;}
+
+#about2{;font-family:mifelin;font-size: 23pt;color:  #A679CA;
+width: 150px;margin-left: 120px }
+
+#learn{list-style-type: none;text-decoration: none;display: flex;
+text-align: center;
+justify-content: center;color:#A679CA;font-family:mifelin;font-size: 16pt;}
+
+#lala{font-family: mifelin;font-size: 60pt;color: #A679CA;margin-left: 120px;margin-bottom: 50px}
+#BOUKAY{height:450px;width: 500px;background-color:#E6C9E1;border-radius:400px;margin-left: 150px;padding-top: 50px }
+
+#B{display: flex;}
+#how{color:#A679CA;font-family:mifelin;font-size: 30pt;margin-bottom: -10px}
+
+#p7{font-size: 14pt}
+#BOUKAY1{width: 350px;height: 400px;text-align: center;margin-top: 110px;margin-left: 220px}
+
+p{font-size: 13pt}
+
+/*----FOOTER---*/
+#logo2{display: flex;margin-left: 50px}
+
+#logoo{height: 50px;width: 50px;margin-top: 40px;margin-right: 20px}
+
+#boukay3{font-family:mifelin;color:#A679CA;font-size: 34pt;margin-bottom: -20px }
+
+#p11{width: 500px;text-align: left;margin-left: 50px;font-size: 13pt}
+
+#sec7{display: flex; background-color:#AFD7F7;padding: 10px;margin-top: 50px;}
+
+#f{text-align: left; margin-left: 40px}
+
+div{margin-left: 60px}
+#footer{margin-left: 60px;margin-right: 120px;margin-top: -20px}
+
+#linef{width:1000px;height: 5px;margin-left: -1080px;margin-top: 180px}
+#fo{margin-top: 200px;margin-left:-80px}
